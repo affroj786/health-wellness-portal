@@ -1,7 +1,7 @@
 import { useState } from "react";
 function Programs() {
 
-  //const [joined, setJoined] = useState(false);
+  
   return (
     <div className="container mt-5">
 
@@ -27,7 +27,7 @@ function Programs() {
           <div className="card p-3 text-center shadow-sm">
             <h5>Gym Training</h5>
             <p>Strength and fitness training sessions.</p>
-            <button className="btn btn-primary mt-2">
+            <button className="btn btn-primary mt-2"> 
               Join
             </button>
           </div>

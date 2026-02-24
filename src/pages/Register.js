@@ -24,9 +24,7 @@ const [password, setPassword] = useState("");
 
   const [message, setMessage] = useState("");
 
-  //const handleRegister = () => {
-   // setMessage("Registered Successfully ✅");
- // };
+ 
 
   return (
     <div className="container mt-5" style={{ maxWidth: "400px" }}>
