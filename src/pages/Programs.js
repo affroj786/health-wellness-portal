@@ -1,7 +1,7 @@
 import { useState } from "react";
 function Programs() {
 
-  const [joined, setJoined] = useState(false);
+  //const [joined, setJoined] = useState(false);
   return (
     <div className="container mt-5">
 
