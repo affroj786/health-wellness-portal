@@ -103,11 +103,7 @@ const [password, setPassword] = useState("");
   {loading ? "Registering..." : "Register"}
 </button>
 
-      {message && (
-        <p className="text-success mt-3 text-center">
-          {message}
-        </p>
-      )}
+     
 
     </div>
   );
